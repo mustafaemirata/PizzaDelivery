@@ -48,3 +48,16 @@ Bu projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izley
     Bu komut, uygulamanızı varsayılan web tarayıcınızda açacaktır.
 
 ## Proje Yapısı
+├── AnaSayfa.py
+├── Katalog.py
+├── PizzaEkle.py
+├── Siparis.py
+├── pizzadb.sqlite3
+└── img/  
+## Ekran Görüntüleri
+
+*Örnek olarak, projenizin görsellerini burada gösterebilirsiniz. Görseldeki gibi `ProjeResimleri/Katalog.png` şeklinde bir yol kullanıyorsanız, bu dizinin ve resmin var olduğundan emin olun.*
+
+![Katalog Sayfası](ProjeResimleri/katalog.png)
+![Sipariş Sayfası](ProjeResimleri/siparis.png)
+![Pizza Ekle Sayfası](ProjeResimleri/ekle.png)
