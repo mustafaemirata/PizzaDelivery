@@ -56,8 +56,11 @@ Bu projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izley
 └── img/  
 ## Ekran Görüntüleri
 
-*Örnek olarak, projenizin görsellerini burada gösterebilirsiniz. Görseldeki gibi `ProjeResimleri/Katalog.png` şeklinde bir yol kullanıyorsanız, bu dizinin ve resmin var olduğundan emin olun.*
-
+Eklenen pizzalaron gösterildiği ekran.
 ![Katalog Sayfası](ProjeResimleri/katalog.png)
+
+Sipariş OLuşturma Ekranı
 ![Sipariş Sayfası](ProjeResimleri/siparis.png)
+
+Yönetici olarak menüye ürün ekleme ekranı
 ![Pizza Ekle Sayfası](ProjeResimleri/ekle.png)
